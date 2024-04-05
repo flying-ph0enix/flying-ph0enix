@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on becoming an active participant in the FOSS community.
+- 🤔 Have low expertise work that needs to be done? Feel free to reach out!
+
 <!--
 **flying-ph0enix/flying-ph0enix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
